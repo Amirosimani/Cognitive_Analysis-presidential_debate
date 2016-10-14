@@ -6,6 +6,7 @@ The goal of this project is to analyse the variation in presidential candidates'
 
 **Extracted images from debate 1:**
 https://s3-us-west-2.amazonaws.com/debateinemotion/debate1
+video source: first debate https://www.youtube.com/watch?v=855Am6ovK7s
 
 **Extracted images from debate 2:**
 https://s3-us-west-2.amazonaws.com/debateinemotion/debate2
