@@ -10,3 +10,8 @@ video source: first debate https://www.youtube.com/watch?v=855Am6ovK7s
 
 **Extracted images from debate 2:**
 https://s3-us-west-2.amazonaws.com/debateinemotion/debate2
+
+
+** Final Debate **
+https://s3-us-west-2.amazonaws.com/debate3
+source: https://www.youtube.com/watch?v=ye0Xblp_Nb0&t=15s
